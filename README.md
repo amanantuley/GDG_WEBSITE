@@ -1,6 +1,3 @@
-Here’s a sample README template for your GDG (Google Developer Group) website:
-
----
 
 # Google Developer Group (GDG) Website 🌐👨‍💻👩‍💻
 
@@ -100,6 +97,4 @@ This website is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the Google Developer Group for creating a global network for developers.
 - Special thanks to all the contributors and speakers who help make our events successful.
 
----
 
-Let me know if you'd like any changes or additions to this!
